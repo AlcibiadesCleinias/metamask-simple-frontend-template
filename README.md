@@ -1,0 +1,1 @@
+# metamask-simple-frontend-template
