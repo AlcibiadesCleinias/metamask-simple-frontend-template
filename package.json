@@ -4,8 +4,7 @@
 	"main": "index.js",
 	"license": "MIT",
 	"scripts": {
-		"start": "rm -rf .cache && parcel ./src/index.html --open",
-		"build": "parcel build ./src/index.html"
+		"start": "rm -rf .cache && parcel ./src/index.html --open"
 	},
 	"browserslist": [
 		"last 1 Chrome versions"
