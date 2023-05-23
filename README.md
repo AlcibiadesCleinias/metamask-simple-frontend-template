@@ -6,6 +6,10 @@ Example of 1 page metamask application.
 - [easy integration] all in 1 html page
 - [no need in complex global context] when login inserts web3 instance of the user into **window**
 - [examples full] [ExampleContract.js](src/clients/ExampleContract.js) demonstrates how to use OOP and "raw" contract calls
+- [CD] it deploys `index.html` to gihub-pages 
+
+# CD
+To enable CD go to your repo settings, `Pages` and choose to deploy from `github actions`.
 
 # Installation
 > testes on node version `v16.14.2`
